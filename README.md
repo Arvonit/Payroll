@@ -1,2 +1,2 @@
-# simple-payroll-program
+# Payroll
 A simple payroll program written in VB.NET.
